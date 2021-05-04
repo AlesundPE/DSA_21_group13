@@ -25,3 +25,6 @@ Next, you need to install the mpi4py library with the instruction "pip install m
 The sample command line instruction to run the program is "mpiexec -n 1 python PagerankMPI.py graph10000"  
 Where -n specify the number of workers, in this case, 1 worker is spawned in the execution  
 PagerankMPI.py takes the argument of a graph file  
+  
+I'm having trouble with uploading the files with Git Push, it seems my proxy doens't work  
+The whole datafile will be in this Google Drive link: https://drive.google.com/file/d/12LLhqIzft29yQL4t9VE6kat7qj6KdF7W/view?usp=sharing
